@@ -14,6 +14,8 @@ __all__ = [
     "majority",
     "BestOfN",
     "ChainOfThought",
+    "ChainOfDensity",
+    "ChainOfDensityWithPreference",
     "CodeAct",
     "KNN",
     "MultiChainComparison",
@@ -22,5 +24,5 @@ __all__ = [
     "ReAct",
     "Refine",
     "Tool",
-    "Parallel",
+    "Parallel"
 ]
